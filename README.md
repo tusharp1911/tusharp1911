@@ -1,7 +1,6 @@
 <!-- ====== Profile Header ====== -->
-<h1 align="center">Hi 👋, I am Tushar Patil</h1>
+<h1 align="center">Hi 👋, I am Tushar Patil- DevOps Engineer</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/DevOps-Engineer-blue?style=for-the-badge&logo=gitlab" alt="role" />
   <img src="https://img.shields.io/badge/Experience-7%2B%20Years-important?style=for-the-badge&logo=visual-studio-code" alt="exp" />
   <img src="https://img.shields.io/badge/Location-Pune%2C%20India-orange?style=for-the-badge&logo=mapbox" alt="location" />
 </p>
