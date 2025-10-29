@@ -13,7 +13,7 @@
 ---
 
 ## 🚀 About Me
-I’m a **DevOps Engineer** with **7.6+ years** of hands-on experience across **AWS, Azure, OCI and Akamai Linode**. I build and operate secure, scalable, and automated cloud platforms using **Kubernetes, Terraform, Ansible**, and CI/CD tooling. I enjoy mentoring teams, automating repetitive work, and improving system reliability and developer velocity.
+I’m a **DevOps Engineer** with **7+ years** of hands-on experience across **AWS, Azure, OCI and Akamai Linode**. I build and operate secure, scalable, and automated cloud platforms using **Kubernetes, Terraform, Ansible**, and CI/CD tooling. I enjoy mentoring teams, automating repetitive work, and improving system reliability and developer velocity.
 
 - 🔭 Currently working on: **cloud-native solutions, real-time analytics pipelines, and DevSecOps**  
 - 🌱 Always learning: **AI Ops, cost optimization, and advanced observability**  
