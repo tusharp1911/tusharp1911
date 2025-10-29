@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img alt="typing" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2EC4B6&width=600&lines=CI%2FCD+automation+%7C+Kubernetes+%7C+Terraform+%7C+DevSecOps" />
+  <img alt="typing" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2EC4B6&width=600&lines=CI%2FCD+%7C+Kubernetes+%7C+Terraform+%7C+DevSecOps" />
 </p>
 
 ---
